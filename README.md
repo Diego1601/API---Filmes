@@ -18,3 +18,5 @@ Este mini site é um projeto que realizei que consome uma API simples de filmes.
 - [useState] - (Para gerenciar os estados da aplicação)
 - [etc]
 
+Obs: Como se trata de uma api simples de filmes, a mesma pode falhar na busca por alguns filmes, em que ao invés de retornar a imagem do filme, ela somente retorna o título. 
+
