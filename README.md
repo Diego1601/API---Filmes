@@ -1,8 +1,20 @@
-# React + Vite
+# API - Filmes
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este mini site é um projeto que realizei que consome uma API simples de filmes. Ele consiste em buscar as imagens dos filmes junto com seus respectivos títulos. Na página, existe a parte superior que contém botões de navegação por categoria, e um input para pesquisar os filmes por nome. Caso queira voltar ao inicio da página, é só clicar no Titulo principal da página "Filmes". Foi maravilhoso realizar este projeto, em que pratiquei o consumo de uma api.
 
-Currently, two official plugins are available:
+## Tecnologias usadas:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [React + Javascript] - (com VITE)
+- [Html5]
+- [Styled Components]
+
+## Pratiquei neste projeto:
+
+- [Estrutura de Pastas] - ( Pastas e arquivos organizados para melhor compreensão e código limpo )
+- [Styled Components] - (Para estilização do projeto)
+- [Media Queries] - (Deixando o site mais responsivo)
+- [Eventos] - (Prática de eventos em componentes)
+- [Props] - (Para tornar os cards mais dinâmicos)
+- [useState] - (Para gerenciar os estados da aplicação)
+- [etc]
+
