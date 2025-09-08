@@ -25,7 +25,7 @@ export default function App() {
     const filtrados = dado.filter( (item) =>
       item.title.toLowerCase().includes(filmes.toLowerCase())
     );
-
+     
   return (
     <>
     <S.sectionNav>

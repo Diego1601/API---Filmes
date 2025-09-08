@@ -48,11 +48,14 @@ nav {
 
 export const sectionFilmes = styled.section`
 width: 98.6vw;
+min-height: 100vh;
 display: flex;
 justify-content: center;
 align-items: center;
 flex-wrap: wrap;
-margin-top: 10%;
+margin-top: 8%;
+padding-top: 2%;
+background-color: black;
 
 div {
     max-width: calc(250px + 50px);
@@ -66,10 +69,16 @@ div {
         padding-bottom: 1vw;
         border-radius: 2vw 0vw ;
     }
+    
+    img:hover {
+    background-color: white;
+    opacity: 80%;
+    }
 
     figcaption {
         font-size: large;
         font-family: "Josefin Sans", sans-serif;
+        color: white;
     }
 }
 `
